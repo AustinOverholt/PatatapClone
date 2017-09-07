@@ -1,6 +1,6 @@
 ## Synopsis 
 
-This is a clone of [link](http://patatap.com/)
+This is a clone of [Patatap](http://patatap.com/)
 
 ## Motivation
 
